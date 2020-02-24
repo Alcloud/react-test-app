@@ -1,0 +1,8 @@
+.post {
+    background-color: azure;
+  }
+
+.post img{
+  width: 50px;
+  border-radius: 30px;
+}
